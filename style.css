@@ -107,7 +107,7 @@ p {
     width: 0%;
     animation: text_reveal_box 1s ease;
     animation-delay: .5s;
-    background-color: gold;
+    background-color: rgb(47, 0, 255);
 }
 #presentation h1:nth-child(1) span{
     animation-delay: .5s;
